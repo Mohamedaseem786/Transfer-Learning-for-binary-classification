@@ -79,7 +79,7 @@ for layer in pre_trained_model.layers:
 
 pre_trained_model.summary()
 # Write Your Code
-print('Name: A.ARUVI.     Register Number: 212222230014.')
+print('Name: MOHAMED ASEEM P.     Register Number: 212221230063.')
 
 last_layer = pre_trained_model.get_layer('mixed7')
 print('last layer output shape: ', last_layer.output.shape)
@@ -170,7 +170,7 @@ zip_ref.extractall('/tmp/validation')
 zip_ref.close()
 
 model.summary()
-print("Name: A.ARUVI  Reg No: 212222230014")
+print("Name:MOHAMED ASEEM P  Reg No: 212221230063")
 
 # Define our example directories and files
 train_dir = '/tmp/training'
